@@ -46,12 +46,56 @@ It is so ordered.
 
   c. John F. Duffy, Are Administrative Patent Judges Constitutional?, 2007 Patently-O Patent L.J. 21 (2007) http://www.patentlyo.com/lawjournal/files/Duffy.BPAI.pdf 
 
+  > Under 35 U.S.C. § 6, administrative patent judges of the Board of Patent Appeals and Interferences (BPAI) are appointed by the Director of the Patent and Trademark Office (PTO). That method of appointment is almost certainly unconstitutional, and the administrative patent judges serving under such appointments are likely to be viewed by the courts as having no constitutionally valid governmental authority.
+
+  > Furthermore, during judicial review of the Board’s decisions, Article III courts are required to afford the decisions of the Board a substantial degree of deference under the Administrative Procedure Act. See Dickinson v. Zurko, 527 U.S. 150 (1999). The power to reach a final administrative decision — one that the courts are required to respect with deference — surely means that the members of the BPAI are exercising significant authority under the law and are thus officers for purposes of the Appointments Clause.
+  
+  > Because the PTO Director is not the President or a court of law, the validity of the appointment process turns on whether the Director can be viewed as a “Head of Department.”
 
   d. Intercollegiate Broadcasting System v. Copyright Royalty Board, 684 F.3d 1332 (D.C. Cir. 2012)
+
+  - https://www.casetext.com/case/intercollegiate-broad-sys-inc-v-copyright-royalty-bd/
+
+  > We hold that without the unrestricted ability to remove the Copyright Royalty Judges, Congress's vesting of their appointment in the Librarian rather than in the President violates the Appointments Clause. Accordingly we invalidate and sever the portion of the statute limiting the Librarian's ability to remove the Judges. Because the Board's structure was unconstitutional at the time it issued its determination, we vacate and remand the determination and do not address Intercollegiate's arguments regarding the merits of the rates set therein.
+
   e. 5 USC 3345
+
+  - https://www.casetext.com/statute/5-usc-3345
+
+  > (a) If an officer of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate, dies, resigns, or is otherwise unable to perform the functions and duties of the office—
+
   f. 35 USC 6
+
+  - https://www.casetext.com/statute/35-usc-6
+
+  > (b) Duties.—
+
+    The Patent Trial and Appeal Board shall—
+
+    (1) on written appeal of an applicant, review adverse decisions of examiners upon applications for patents pursuant to section 134(a);
+
+    (2) review appeals of reexaminations pursuant to section 134(b);
+
+    (3) conduct derivation proceedings pursuant to section 135; and
+
+    (4) conduct inter partes reviews and post-grant reviews pursuant to chapters 31 and 32.
+
   g. Aharonian v. Gutierrez, 524 F. Supp. 54 (D.D.C. 2007)
+
+  - https://casetext.com/case/aharonian-v-gutierrez/
+
+  > Plaintiffs complain that the appointment of Margaret Peterlin to the position of Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office is unlawful because she is not a "citizen of the United States who has a professional background and experience in patent, or trademark law." 35 U.S.C. § 3(b). Defendant responds that, for a variety of reasons, this complaint is nonjusticiable. I agree with defendant, and will dismiss the complaint.
+
   h. Patlex Corp. v. Mossinghoff, 758 F.2d 594 (Fed. Cir. 1985)
+
+  - https://casetext.com/case/patlex-corp-v-mossinghoff/
+
+  > The issue is whether certain provisions of the patent reexamination statute and implementing regulations are in violation of: the due process clause of the Fifth Amendment to the Constitution; 1 the jury trial guarantee of the Seventh Amendment; 2 Article III which vests judicial power in the courts of the United States; or the statutory mandate of Congress. 
+
+  - Property Rights
+  - Fifth Amendment
+
+  > In summary, we affirm the decision of the district court that 35 U.S.C. Secs. 301-307, as applied retroactively to Gould's issued patents, do not violate the Fifth Amendment or the Seventh Amendment or Article III; that 35 U.S.C. Sec. 282 does not apply to reexamination; and that MPEP Sec. 2286 does not violate statutory and constitutional restraints. The decision of the district court that 37 C.F.R. Secs. 1.26(c) and 1.530(a), and those portions of MPEP Secs. 2240 and 2244 that impose a rule of doubt on the decision to reexamine, do not violate statutory and constitutional restraints is vacated in view of Gould's lack of standing to raise these issues.
 
 3.  January 27: Funding of the USPTO
 
